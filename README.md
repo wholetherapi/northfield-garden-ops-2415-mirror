@@ -1,2 +1,5 @@
-# northfield-garden-ops-2415-mirror
-Read-only mirror of the Northfield Garden Co. operations handbook (legacy format).
+# Northfield Garden Co. — Operations Handbook (mirror)
+
+Read-only mirror kept for supplier access. Do not edit this repository.
+
+Legacy documentation format from the previous handbook system.
